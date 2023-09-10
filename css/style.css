@@ -1,0 +1,3030 @@
+html, body {
+  line-height: 160%;
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1920px;
+}
+.home-7K8 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-7K8 .navbar-G5Y {
+  margin-bottom: 8rem;
+  box-sizing: border-box;
+  padding: 1.8rem 32.1rem 1.6rem 32rem;
+  width: 100%;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .logo-5BQ {
+  margin: 0rem 47.459rem 0.257rem 0rem;
+  width: 12.1409rem;
+  height: 2.7435rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ {
+  box-sizing: border-box;
+  padding: 0.6rem 3.1rem 0.8rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .menu-miS {
+  margin: 0.8rem 3.2rem 0.6rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .menu-miS .home-4xS {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .menu-miS .about-us-tpz {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .menu-miS .services-DcN {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .menu-miS .blog-KvJ {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .menu-miS .contact-ehg {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .auto-group-2gxj-XJJ .line-not {
+  width: 0.1rem;
+  height: 4.2rem;
+  background-color: rgba(146, 144, 144, 0.3600000143);
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .assistance-Kop {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .assistance-Kop .assistance-icon-GUA {
+  margin-right: 1.4rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .assistance-Kop .auto-group-vlhg-zux {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .assistance-Kop .auto-group-vlhg-zux .road-assistance-A3k {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .navbar-G5Y .navbar-right-AyY .assistance-Kop .auto-group-vlhg-zux .item-1800-265-24-52-J9x {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY {
+  margin: 0rem 30rem 13.5rem 32rem;
+  width: calc(100% - 62rem);
+  height: 63.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ {
+  margin: 8.2rem 6.8rem 9.8rem 0rem;
+  width: 57.7rem;
+  height: calc(100% - 18rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .get-your-vehicle-service-done-online-at-one-place-mhk {
+  max-width: 57.7rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.3125;
+  letter-spacing: -0.192rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .auto-group-h7na-1c6 {
+  margin: 0rem 21.7rem 4.8rem 0rem;
+  width: calc(100% - 21.7rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .auto-group-h7na-1c6 .button-iFc {
+  margin-right: 4.9rem;
+  width: 20.3rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6433;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .auto-group-h7na-1c6 .video-button-P6r {
+  margin: 2rem 0;
+  height: calc(100% - 4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .auto-group-h7na-1c6 .video-button-P6r .play-icon-uqt {
+  margin-right: 0.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .auto-group-h7na-1c6 .video-button-P6r .play-video-phx {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #1e1b1b;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .open-V3Q {
+  margin: 0rem 20.1rem 0rem 0.102rem;
+  width: calc(100% - 20.2016rem);
+  height: 5.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .open-V3Q .icon-aqY {
+  margin: 0rem 1.305rem 0.103rem 0rem;
+  width: 3.0938rem;
+  height: 3.0938rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .open-V3Q .auto-group-lb1k-Hzr {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .open-V3Q .auto-group-lb1k-Hzr .we-are-open-rHG {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-text-ggJ .auto-group-ndkv-U6N .open-V3Q .auto-group-lb1k-Hzr .monday-to-friday-9-00-am-to-10-00-am-ngi {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA {
+  width: 65.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA .image-3sY {
+  width: 60.5rem;
+  height: 63.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg.png');
+}
+.home-7K8 .header-BjY .header-image-JQA .service-88J {
+  box-sizing: border-box;
+  padding: 1.5rem 3.964rem 1.7rem 1.393rem;
+  width: 28.1635rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0;
+  top: 8.1rem;
+  display: flex;
+  align-items: center;
+  border: solid 1.2rem rgba(225, 225, 225, 0.4300000072);
+  box-shadow: 0 2.8rem 11.8rem rgba(109, 108, 114, 0.1199999973);
+  background: linear-gradient(318.85deg, #ffffff 138.72%, #ffffff 253.95%);
+  border-radius: 5.9rem;
+}
+.home-7K8 .header-BjY .header-image-JQA .service-88J .circle-Aqg {
+  margin-right: 1.4406rem;
+  box-sizing: border-box;
+  padding: 1.7rem 0.887rem 1.7rem 1.294rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA .service-88J .circle-Aqg .item-24-HfQ {
+  margin-right: 0.3851rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA .service-88J .circle-Aqg .hr-oNr {
+  margin-top: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA .service-88J .quick-service-7eS {
+  margin-bottom: 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA .rating-vLz {
+  box-sizing: border-box;
+  padding: 2.4rem 3.2rem 2.4rem 3.8rem;
+  width: 32.6rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 32.9rem;
+  top: 46rem;
+  display: flex;
+  align-items: center;
+  border: solid 1.2rem rgba(225, 225, 225, 0.4300000072);
+  box-shadow: 0 2.8rem 11.8rem rgba(109, 108, 114, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 5.9rem;
+}
+.home-7K8 .header-BjY .header-image-JQA .rating-vLz .auto-group-6qnn-B22 {
+  margin-right: 1.5rem;
+  width: 5.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .header-BjY .header-image-JQA .rating-vLz .auto-group-6qnn-B22 .rating-gjU {
+  width: 5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .header-BjY .header-image-JQA .rating-vLz .auto-group-6qnn-B22 .item-45-5-bLe {
+  width: 5.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .header-BjY .header-image-JQA .rating-vLz .stars-hPg {
+  width: 18.5rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t {
+  margin-bottom: 13.4rem;
+  box-sizing: border-box;
+  padding: 12.8rem 31.3rem 12.8rem 32.3rem;
+  width: 192.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f2f2;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .what-we-offer-hHC {
+  margin: 0rem 0rem 0.8rem 0.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .we-offer-full-service-auto-repair-maintenance-yVc {
+  margin-bottom: 6.4rem;
+  max-width: 84rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 47.2rem;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 {
+  width: 31.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 .item-1-gYS {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 6.9rem 9.1rem 6.2rem 9.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 .item-1-gYS .icon-oNA {
+  margin: 0rem 0.1rem 1.6rem 0rem;
+  width: 4.4rem;
+  height: 4.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 .item-1-gYS .diagnostics-7te {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 .item-5-p2N {
+  box-sizing: border-box;
+  padding: 7.9rem 10.05rem 6.2rem 10.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 .item-5-p2N .icon-KUv {
+  margin: 0rem 0.085rem 1.668rem 0rem;
+  width: 5.4146rem;
+  height: 3.832rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bddl-w54 .item-5-p2N .body-work-CYi {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin {
+  width: 31.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin .item-2-EEW {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 7.316rem 8.35rem 6.2rem 8.45rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin .item-2-EEW .icon-jh4 {
+  margin: 0rem 0rem 1.9rem 0.3rem;
+  width: 4.2rem;
+  height: 4.1836rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin .item-2-EEW .engine-repair-f4v {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin .item-6-yLW {
+  box-sizing: border-box;
+  padding: 7.875rem 10.9rem 6.2rem 10.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin .item-6-yLW .icon-WLS {
+  margin: 0rem 0rem 1.675rem 0.4rem;
+  width: 4.4rem;
+  height: 3.85rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-mwcs-gin .item-6-yLW .batteries-RyC {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa {
+  width: 31.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa .item-3-3Dt {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 7.6rem 8.75rem 6.2rem 8.55rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ff6433;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa .item-3-3Dt .icon-xbk {
+  margin: 0rem 0rem 1.2rem 0.2rem;
+  width: 4.6rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa .item-3-3Dt .wheel-repair-gne {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa .item-7-oMU {
+  box-sizing: border-box;
+  padding: 7.6rem 7.15rem 6.2rem 7.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa .item-7-oMU .icon-Y4A {
+  margin-bottom: 1.2rem;
+  width: 3.6836rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-ubtn-uNa .item-7-oMU .insurance-claim-ss8 {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa {
+  width: 31.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa .item-4-93x {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 7.4rem 11.45rem 6.2rem 11.45rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa .item-4-93x .icon-DpW {
+  margin-bottom: 1.4rem;
+  width: 3.2344rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa .item-4-93x .oil-filter-MA2 {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa .item-8-s8N {
+  box-sizing: border-box;
+  padding: 7.6rem 7.2rem 6.2rem 7.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa .item-8-s8N .icon-b4N {
+  margin: 0rem 0rem 1.2rem 0.4rem;
+  width: 4.5999rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .offer-grid-1SJ .auto-group-bhgv-Paa .item-8-s8N .custom-service-XCv {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .view-all-ENE {
+  margin-left: 104.1rem;
+  width: calc(100% - 104.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .view-all-ENE .learn-about-services-Amg {
+  margin-right: 1.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .offer-z7t .view-all-ENE .icon-hmc {
+  width: 5.2rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp {
+  margin: 0rem 52.5rem 13.5rem 32rem;
+  width: calc(100% - 84.5rem);
+  height: 52.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-left-VSa {
+  margin-right: 13.1rem;
+  width: 52.4rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-left-VSa .we-follow-a-clear-process-to-help-you-out-dYn {
+  margin-bottom: 1.6rem;
+  max-width: 52.1rem;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+}
+.home-7K8 .process-section-RBp .process-left-VSa .through-true-rich-attended-does-no-end-it-his-mother-since-real-had-half-every-him-case-in-packages-enquire-vnn {
+  margin-bottom: 3.2rem;
+  max-width: 40.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+}
+.home-7K8 .process-section-RBp .process-left-VSa .button-D1C {
+  width: 17.7rem;
+  height: 6.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6433;
+  border-radius: 1.2rem;
+}
+.home-7K8 .process-section-RBp .process-right-u8v {
+  width: 42rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 {
+  box-sizing: border-box;
+  padding-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS {
+  margin-bottom: 1.7rem;
+  width: 40.7rem;
+  height: 16.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .line-vpi {
+  width: 0.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 8.8rem;
+  background-color: #ff6433;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA {
+  width: 40.7rem;
+  height: 16.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA .circle-M9L {
+  margin-right: 2.4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  position: relative;
+  background-color: #661ce7;
+  border-radius: 3.6rem;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA .circle-M9L .item-01-gxJ {
+  width: 3.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA .circle-M9L .circle-bottom-PLv {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA .text-Vuk {
+  margin-top: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA .text-Vuk .get-a-quote-T5t {
+  margin-bottom: 0.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-apve-bnS .step-1-1rA .text-Vuk .through-true-rich-attended-does-no-end-it-his-mother-since-real-had-half-every-9UW {
+  max-width: 31.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 {
+  width: 41.1rem;
+  height: 16.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .line-ig2 {
+  width: 0.2rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 8.3rem;
+  background-color: #ff6433;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc {
+  width: 41.1rem;
+  height: 16.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc .circle-BJi {
+  margin-right: 2.4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  position: relative;
+  background-color: #661ce7;
+  border-radius: 3.6rem;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc .circle-BJi .item-02-vXC {
+  width: 4.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc .circle-BJi .circle-bottom-Ryk {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc .text-MsQ {
+  margin-top: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc .text-MsQ .book-an-appointment-X1C {
+  margin-bottom: 0.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .auto-group-xpsg-rK4 .auto-group-nhjy-cN6 .step-2-2wc .text-MsQ .through-true-rich-attended-does-no-end-it-his-mother-since-real-had-half-every-e5p {
+  max-width: 31.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ .circle-1qU {
+  margin-right: 2.4rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  position: relative;
+  background-color: #661ce7;
+  border-radius: 3.6rem;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ .circle-1qU .item-03-kYA {
+  width: 4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ .circle-1qU .circle-bottom-TSa {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ .text-aGJ {
+  margin-top: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ .text-aGJ .get-your-service-done-Kza {
+  margin-bottom: 0.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .process-section-RBp .process-right-u8v .step-3-7EJ .text-aGJ .through-true-rich-attended-does-no-end-it-his-mother-since-real-had-half-every-3fg {
+  max-width: 31.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .cta-k4J {
+  width: 100%;
+  height: 50.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .cta-k4J .https-unsplashcom-photos-ovgreugrkye-5Ez {
+  width: 94.4rem;
+  height: 50.2rem;
+  position: absolute;
+  left: 97.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-7K8 .cta-k4J .image-1-BJ2 {
+  width: 97.6rem;
+  height: 50.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-7K8 .cta-k4J .orange-vFc {
+  box-sizing: border-box;
+  padding: 12.8rem 8.2rem 12.8rem 6.1rem;
+  width: 72.9rem;
+  height: 50.2rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 0;
+  background-color: #ff6433;
+}
+.home-7K8 .cta-k4J .orange-vFc .get-in-touch-with-us-for-your-service-related-query-Civ {
+  margin: 0rem 0rem 4.7rem 1.9rem;
+  max-width: 56.7rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3999999364;
+  letter-spacing: -0.144rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+}
+.home-7K8 .cta-k4J .orange-vFc .button-secondary-VCE {
+  width: 17.7rem;
+  height: 6.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1d1b1b;
+  border-radius: 1.2rem;
+}
+.home-7K8 .experience-AJN {
+  box-sizing: border-box;
+  padding: 4.8rem 32.6rem 4.8rem 31.5rem;
+  width: 100%;
+  height: 21rem;
+  display: flex;
+  align-items: center;
+  background-color: #f2f2f2;
+  flex-shrink: 0;
+}
+.home-7K8 .experience-AJN .number-1-EZ8 {
+  margin-right: 18.7rem;
+  width: 13.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-7K8 .experience-AJN .number-1-EZ8 .item-20-ZLW {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #661ce7;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-1-EZ8 .proffesional-Tgn {
+  margin-left: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-2-yf8 {
+  margin-right: 18.65rem;
+  width: 17.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-7K8 .experience-AJN .number-2-yf8 .item-10-7FY {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #661ce7;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-2-yf8 .years-eperience-ELA {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-3-Mva {
+  margin-right: 18.8rem;
+  width: 16.55rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-7K8 .experience-AJN .number-3-Mva .k-iFL {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #661ce7;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-3-Mva .service-closed-q54 {
+  margin-left: 0.45rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-4-hd4 {
+  width: 24.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-7K8 .experience-AJN .number-4-hd4 .item-100-3wp {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #661ce7;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .experience-AJN .number-4-hd4 .customer-satisfaction-ZvA {
+  margin-left: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .brands-5dc {
+  margin-bottom: 13.1rem;
+  box-sizing: border-box;
+  padding: 12.8rem 32.2rem 8.164rem 31.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e2e6e9;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brands-we-serve-CCS {
+  margin: 0rem 0.8rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ {
+  margin-bottom: 3.8605rem;
+  opacity: 0.8;
+  box-sizing: border-box;
+  padding: 4.527rem 3.241rem 4.463rem 2.659rem;
+  width: 100%;
+  height: 12.7879rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-8-1-z8J {
+  margin: 0.057rem 9.571rem 0rem 0rem;
+  width: 17.1213rem;
+  height: 3.3779rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 {
+  margin: 0rem 10.653rem 0.064rem 0rem;
+  height: 3.7341rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-iiW {
+  width: 1.7004rem;
+  height: 3.7341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-FiS {
+  margin: 0rem 0.954rem 0rem 0rem;
+  width: 1.3134rem;
+  height: 2.6471rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-PJr {
+  margin: 0rem 0.213rem 0.134rem 0rem;
+  width: 0.3807rem;
+  height: 1.8479rem;
+  background-color: #1d1b1b;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-6yx {
+  margin: 0.448rem 0.131rem 0rem 0rem;
+  width: 1.3325rem;
+  height: 1.3427rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-2sc {
+  margin: 0.963rem 0.214rem 0rem 0rem;
+  width: 1.3679rem;
+  height: 1.839rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-AD8 {
+  margin: 0.448rem 0.174rem 0rem 0rem;
+  width: 1.3325rem;
+  height: 1.3428rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-6ca {
+  margin: 0rem 0.228rem 0.119rem 0rem;
+  width: 0.4518rem;
+  height: 1.8325rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-b3Y {
+  margin: 0.921rem 0.094rem 0rem 0rem;
+  width: 1.3675rem;
+  height: 1.8106rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-71t {
+  margin: 0.451rem 0.17rem 0rem 0rem;
+  width: 1.0634rem;
+  height: 1.3391rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-S4A {
+  margin: 0.487rem 0.261rem 0rem 0rem;
+  width: 1.2093rem;
+  height: 1.3051rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-NTc {
+  margin: 0.412rem 0.041rem 0rem 0rem;
+  width: 1.8958rem;
+  height: 1.3018rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-6-SW6 .vector-K7x {
+  margin-bottom: 1.3965rem;
+  width: 0.5583rem;
+  height: 0.5627rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-7-1-45Y {
+  margin: 0.208rem 11.401rem 0.155rem 0rem;
+  height: calc(100% - 0.3628rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-7-1-45Y .vector-yyC {
+  margin-right: 0.9225rem;
+  width: 3.4426rem;
+  height: 3.4355rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-7-1-45Y .vector-8bC {
+  margin-top: 0.37rem;
+  width: 10.7073rem;
+  height: 2.0774rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G {
+  margin: 0.385rem 10.892rem 0.451rem 0rem;
+  height: calc(100% - 0.8354rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-mPG {
+  margin-right: 1.0271rem;
+  width: 3.4571rem;
+  height: 2.9629rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-594 {
+  margin: 0.432rem 0.114rem 0rem 0rem;
+  width: 0.4654rem;
+  height: 1.4248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-CDg {
+  margin: 0.882rem 0.154rem 0rem 0rem;
+  width: 1.0461rem;
+  height: 0.9764rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-vfU {
+  margin: 1.324rem 0.189rem 0rem 0rem;
+  width: 1.0497rem;
+  height: 1.4136rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-4Ft {
+  margin: 0.882rem 0.167rem 0rem 0rem;
+  width: 1.0426rem;
+  height: 0.9753rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-PJA {
+  margin: 0.435rem 0.074rem 0rem 0rem;
+  width: 0.4916rem;
+  height: 1.4219rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-Jg2 {
+  margin: 1.289rem 0.125rem 0rem 0rem;
+  width: 1.2055rem;
+  height: 1.3815rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-EJn {
+  margin: 0.877rem 0.18rem 0rem 0rem;
+  width: 0.9053rem;
+  height: 0.9798rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-ACS {
+  margin: 0.914rem 0.08rem 0rem 0rem;
+  width: 1.1546rem;
+  height: 0.945rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-3-U9G .vector-4Yi {
+  margin-top: 0.8822rem;
+  width: 1.9259rem;
+  height: 0.9749rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-1-1-Mni {
+  margin-top: 0.0563rem;
+  height: 3.742rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-1-1-Mni .vector-gpz {
+  margin-right: 0.8058rem;
+  width: 3.7613rem;
+  height: 3.742rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-gtJ .logo-1-1-Mni .vector-dVL {
+  margin-top: 0.5549rem;
+  width: 11.5133rem;
+  height: 2.2345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU {
+  opacity: 0.8;
+  box-sizing: border-box;
+  padding: 4.527rem 3.241rem 4.463rem 2.659rem;
+  width: 100%;
+  height: 12.7879rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-8-1-G2W {
+  margin: 0.057rem 9.571rem 0rem 0rem;
+  width: 17.1213rem;
+  height: 3.3779rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe {
+  margin: 0rem 10.653rem 0.064rem 0rem;
+  height: 3.7341rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-grv {
+  width: 1.7004rem;
+  height: 3.7341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-2A6 {
+  margin: 0rem 0.954rem 0rem 0rem;
+  width: 1.3134rem;
+  height: 2.6471rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-i2v {
+  margin: 0rem 0.213rem 0.134rem 0rem;
+  width: 0.3807rem;
+  height: 1.8479rem;
+  background-color: #1d1b1b;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-q7Y {
+  margin: 0.448rem 0.131rem 0rem 0rem;
+  width: 1.3325rem;
+  height: 1.3427rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-yDk {
+  margin: 0.963rem 0.214rem 0rem 0rem;
+  width: 1.3679rem;
+  height: 1.839rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-JWv {
+  margin: 0.448rem 0.174rem 0rem 0rem;
+  width: 1.3325rem;
+  height: 1.3428rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-qWr {
+  margin: 0rem 0.228rem 0.119rem 0rem;
+  width: 0.4518rem;
+  height: 1.8325rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-BKp {
+  margin: 0.921rem 0.094rem 0rem 0rem;
+  width: 1.3675rem;
+  height: 1.8106rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-KS2 {
+  margin: 0.451rem 0.17rem 0rem 0rem;
+  width: 1.0634rem;
+  height: 1.3391rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-fEz {
+  margin: 0.487rem 0.261rem 0rem 0rem;
+  width: 1.2093rem;
+  height: 1.3051rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-oMC {
+  margin: 0.412rem 0.041rem 0rem 0rem;
+  width: 1.8958rem;
+  height: 1.3018rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-6-nWe .vector-X2J {
+  margin-bottom: 1.3965rem;
+  width: 0.5583rem;
+  height: 0.5627rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-7-1-RNa {
+  margin: 0.208rem 11.401rem 0.155rem 0rem;
+  height: calc(100% - 0.3628rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-7-1-RNa .vector-jeA {
+  margin-right: 0.9225rem;
+  width: 3.4426rem;
+  height: 3.4355rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-7-1-RNa .vector-Ure {
+  margin-top: 0.37rem;
+  width: 10.7073rem;
+  height: 2.0774rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr {
+  margin: 0.385rem 10.892rem 0.451rem 0rem;
+  height: calc(100% - 0.8354rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-8RQ {
+  margin-right: 1.0271rem;
+  width: 3.4571rem;
+  height: 2.9629rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-4pr {
+  margin: 0.432rem 0.114rem 0rem 0rem;
+  width: 0.4654rem;
+  height: 1.4248rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-zyQ {
+  margin: 0.882rem 0.154rem 0rem 0rem;
+  width: 1.0461rem;
+  height: 0.9764rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-YEE {
+  margin: 1.324rem 0.189rem 0rem 0rem;
+  width: 1.0497rem;
+  height: 1.4136rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-sXQ {
+  margin: 0.882rem 0.167rem 0rem 0rem;
+  width: 1.0426rem;
+  height: 0.9753rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-ZQE {
+  margin: 0.435rem 0.074rem 0rem 0rem;
+  width: 0.4916rem;
+  height: 1.4219rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-tBc {
+  margin: 1.289rem 0.125rem 0rem 0rem;
+  width: 1.2055rem;
+  height: 1.3815rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-ctJ {
+  margin: 0.877rem 0.18rem 0rem 0rem;
+  width: 0.9053rem;
+  height: 0.9798rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-kjc {
+  margin: 0.914rem 0.08rem 0rem 0rem;
+  width: 1.1546rem;
+  height: 0.945rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-3-cxr .vector-VBQ {
+  margin-top: 0.8822rem;
+  width: 1.9259rem;
+  height: 0.9749rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-1-1-2x2 {
+  margin-top: 0.0563rem;
+  height: 3.742rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-1-1-2x2 .vector-P1t {
+  margin-right: 0.8058rem;
+  width: 3.7613rem;
+  height: 3.742rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .brands-5dc .brand-row-9yU .logo-1-1-2x2 .vector-jLe {
+  margin-top: 0.5549rem;
+  width: 11.5133rem;
+  height: 2.2345rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW {
+  margin: 0rem 32rem 13.6rem 31.8rem;
+  width: calc(100% - 63.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .our-blog-LLS {
+  margin: 0rem 0rem 4.7rem 0.2rem;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ozjl-bGN {
+  margin-bottom: 4.6rem;
+  display: flex;
+  column-gap: 3.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ozjl-bGN .latest-v3k {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ozjl-bGN .popular-rCJ {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ozjl-bGN .favorites-ZsQ {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC {
+  margin: 0rem 0rem 6.4rem 0.2rem;
+  height: 60.6rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .group-9127-QNE {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .group-9127-QNE .https-unsplashcom-photos-cegq7z0eac-wsx {
+  margin-bottom: 2.4rem;
+  width: 40.5rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .group-9127-QNE .posted-on-october-6th-2021-pRx {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .group-9127-QNE .genius-car-accessories-you-should-never-drive-without-7fx {
+  margin-bottom: 1.6rem;
+  max-width: 36.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .group-9127-QNE .we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-BQv {
+  max-width: 38.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #232536;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-2-qkN {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-2-qkN .https-unsplashcom-photos-begtsocnhro-9m4 {
+  margin-bottom: 2.4rem;
+  width: 40.6rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-2-qkN .posted-on-october-6th-2021-rvN {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-2-qkN .genius-car-accessories-you-should-never-drive-without-kF4 {
+  margin-bottom: 1.6rem;
+  max-width: 36.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-2-qkN .we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-DPY {
+  max-width: 38.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #232536;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-3-G6v {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-3-G6v .https-unsplashcom-photos-heftscwgdca-QU2 {
+  margin-bottom: 2.4rem;
+  width: 40.5rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-3-G6v .posted-on-october-6th-2021-vhG {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-3-G6v .we-provide-blow-straight-past-it-with-the-wheels-skidding-TBQ {
+  margin-bottom: 1.6rem;
+  max-width: 36rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-sjzv-JKC .blog-item-3-G6v .we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-MGn {
+  max-width: 38.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #232536;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA {
+  margin-left: 0.2rem;
+  height: 60.6rem;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-4-Hpe {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-4-Hpe .https-unsplashcom-photos-heftscwgdca-Rfx {
+  margin-bottom: 2.4rem;
+  width: 40.5rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-4-Hpe .posted-on-october-6th-2021-YEn {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-4-Hpe .we-provide-blow-straight-past-it-with-the-wheels-skidding-GRg {
+  margin-bottom: 1.6rem;
+  max-width: 36rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-4-Hpe .we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-Mxv {
+  max-width: 38.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #232536;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-5-cdx {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-5-cdx .https-unsplashcom-photos-begtsocnhro-LK4 {
+  margin-bottom: 2.4rem;
+  width: 40.6rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-5-cdx .posted-on-october-6th-2021-EQS {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-5-cdx .genius-car-accessories-you-should-never-drive-without-kta {
+  margin-bottom: 1.6rem;
+  max-width: 36.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .blog-item-5-cdx .we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-ej4 {
+  max-width: 38.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #232536;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .group-9127-XXx {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .group-9127-XXx .https-unsplashcom-photos-cegq7z0eac-feA {
+  margin-bottom: 2.4rem;
+  width: 40.5rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .group-9127-XXx .posted-on-october-6th-2021-PKG {
+  margin-bottom: 1.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .group-9127-XXx .genius-car-accessories-you-should-never-drive-without-HQe {
+  margin-bottom: 1.6rem;
+  max-width: 36.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .blog-full-section-eiW .auto-group-ugen-yJA .group-9127-XXx .we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-we-provide-a-full-range-of-front-end-mechanical-repairs-for-all-makes-and-models-wzz {
+  max-width: 38.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #232536;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr {
+  box-sizing: border-box;
+  padding: 12.8rem 32.2rem 12.8rem 32rem;
+  width: 192.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f2f2;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .our-customers-say-the-nicest-things-about-our-service-Wgi {
+  margin: 0rem 0.1rem 7.6rem 0rem;
+  max-width: 78.3rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 37.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L {
+  margin-right: 4.8rem;
+  box-sizing: border-box;
+  padding: 7.2rem;
+  width: 61.6rem;
+  height: 100%;
+  border: solid 0.1rem rgba(172, 172, 172, 0.2899999917);
+  box-shadow: 1.1rem 13rem 10rem rgba(0, 0, 0, 0.0199999996);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15.1rem;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J .person-mWA {
+  margin: 0rem 21.3rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: calc(100% - 21.3rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  border-radius: 15.1rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J .person-mWA .https-unsplashcom-photos-k84vnnzxmtq-f5k {
+  margin-right: 1.6rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  position: relative;
+  background-size: 100% 152.381%;
+  background-position: 0 -1.219rem;
+  background-image: url('../assets/https-unsplashcom-photos-k84vnnzxmtq.png');
+  border-radius: 15.1rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J .person-mWA .name-7iS {
+  margin: 0.1rem 0;
+  width: 17.8rem;
+  height: calc(100% - 0.2rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J .person-mWA .name-7iS .jonathan-vallem-TXQ {
+  width: 17.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J .person-mWA .name-7iS .new-york-mHC {
+  width: 7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 3.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-1-w1L .testimonial-text-1-r8J .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-in-a-short-comprehensive-look-on-all-the-working-FiA {
+  max-width: 47rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ {
+  box-sizing: border-box;
+  padding: 7.2rem;
+  width: 61.6rem;
+  height: 100%;
+  border: solid 0.1rem rgba(172, 172, 172, 0.2899999917);
+  box-shadow: 1.1rem 13rem 10rem rgba(0, 0, 0, 0.0199999996);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15.1rem;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz .person-ffQ {
+  margin: 0rem 22.9rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: calc(100% - 22.9rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  border-radius: 15.1rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz .person-ffQ .https-unsplashcom-photos-njhvhxs4c0u-zBt {
+  margin-right: 1.6rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  position: relative;
+  background-size: 100% 150%;
+  background-position: 0 -0rem;
+  background-image: url('../assets/https-unsplashcom-photos-njhvhxs4c0u.png');
+  border-radius: 15.1rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz .person-ffQ .name-UMx {
+  margin: 0.1rem 0;
+  width: 16.2rem;
+  height: calc(100% - 0.2rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz .person-ffQ .name-UMx .smith-johnson-1cn {
+  width: 16.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz .person-ffQ .name-UMx .new-york-vDx {
+  width: 7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 3.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-7K8 .testimonials-1zr .auto-group-1uqy-CJe .testimonial-2-NRQ .testimonial-text-1-7Nz .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-in-a-short-comprehensive-look-on-all-the-working-kTt {
+  max-width: 47rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-hgmq-7Sr {
+  margin-left: 55.8rem;
+  width: calc(100% - 55.8rem);
+  height: 6.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-hgmq-7Sr .lines-eBt {
+  margin: 3.1rem 42.4rem 2.7rem 0rem;
+  width: 16.4rem;
+  height: calc(100% - 5.8rem);
+  border-top: solid 0.4rem #929090;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-hgmq-7Sr .sliders-Hke {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-hgmq-7Sr .sliders-Hke .left-ebC {
+  margin-right: 2.4rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-hgmq-7Sr .sliders-Hke .right-AZY {
+  box-sizing: border-box;
+  padding: 3.2rem 1.8rem 3rem 1.8rem;
+  height: 100%;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #1d1b1b;
+  border-radius: 3.1rem;
+  flex-shrink: 0;
+}
+.home-7K8 .testimonials-1zr .auto-group-hgmq-7Sr .sliders-Hke .right-AZY .arrow-U4S {
+  width: 2.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .faq-9RU {
+  margin-bottom: 12.1rem;
+  box-sizing: border-box;
+  padding: 12.8rem 51.3rem 12.8rem 51.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e2e6e9;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .frequently-asked-questions-qp6 {
+  margin: 0rem 0.4rem 8.6rem 0rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 800;
+  line-height: 1.3103448276;
+  letter-spacing: -0.174rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-1-jPg {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 4.005rem 3.9rem 4.057rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-1-jPg .auto-group-e418-emY {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-1-jPg .auto-group-e418-emY .how-long-should-a-car-repair-take-z4i {
+  margin: 0.4rem 40.03rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-1-jPg .auto-group-e418-emY .orange-d7g {
+  box-sizing: border-box;
+  padding: 2.5rem 1.703rem 2.1rem 1.703rem;
+  width: 5.1078rem;
+  height: 100%;
+  background-color: #ff6433;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-1-jPg .auto-group-e418-emY .orange-d7g .minus-YEe {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #ffffff;
+}
+.home-7K8 .faq-9RU .faq-1-jPg .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-i-have-got-my-car-repaired-at-finsweet-i-have-got-my-car-repaired-at-finsweet-HCE {
+  margin-right: 11.3382rem;
+  max-width: 70.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-1-jPg .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-i-have-got-my-car-repaired-at-finsweet-i-have-got-my-car-repaired-at-finsweet-HCE .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-i-have-got-my-car-repaired-at-finsweet-i-have-got-my-car-repaired-at-finsweet-HCE-sub-0 {
+}
+.home-7K8 .faq-9RU .faq-1-jPg .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-i-have-got-my-car-repaired-at-finsweet-i-have-got-my-car-repaired-at-finsweet-HCE .i-have-got-my-car-repaired-at-finsweet-many-times-before-they-are-good-at-what-they-do-not-only-did-they-repair-my-car-i-have-got-my-car-repaired-at-finsweet-i-have-got-my-car-repaired-at-finsweet-HCE-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+}
+.home-7K8 .faq-9RU .faq-2-Zqt {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 4.005rem 3.2rem 4.057rem;
+  width: 100%;
+  height: 11.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-2-Zqt .how-do-i-schedule-my-cars-appointment--fe2 {
+  margin-right: 31.9304rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-2-Zqt .orange-N2e {
+  box-sizing: border-box;
+  padding: 1.6rem 1.7026rem;
+  height: 100%;
+  background-color: #ff6433;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-2-Zqt .orange-N2e .plus-hai {
+  width: 1.7026rem;
+  height: 1.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .faq-9RU .faq-3-Qk2 {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 4.005rem 3.2rem 4.057rem;
+  width: 100%;
+  height: 11.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-3-Qk2 .what-are-the-repair-services-provided-JaW {
+  margin-right: 35.2304rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-3-Qk2 .orange-myt {
+  box-sizing: border-box;
+  padding: 1.6rem 1.7026rem;
+  height: 100%;
+  background-color: #ff6433;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-3-Qk2 .orange-myt .plus-Wga {
+  width: 1.7026rem;
+  height: 1.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .faq-9RU .faq-4-3Ai {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 4.005rem 3.2rem 4.057rem;
+  width: 100%;
+  height: 11.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-4-3Ai .how-do-i-find-auto-body-shops-near-me-m6i {
+  margin-right: 34.3304rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-4-3Ai .orange-TkE {
+  box-sizing: border-box;
+  padding: 1.6rem 1.7026rem;
+  height: 100%;
+  background-color: #ff6433;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-4-3Ai .orange-TkE .plus-oZC {
+  width: 1.7026rem;
+  height: 1.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .faq-9RU .faq-5-jSr {
+  box-sizing: border-box;
+  padding: 3.2rem 4.005rem 3.2rem 4.057rem;
+  width: 100%;
+  height: 11.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-5-jSr .genuine-spare-parts-during-car-repair-2wk {
+  margin-right: 35.5304rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-5-jSr .orange-6Rp {
+  box-sizing: border-box;
+  padding: 1.6rem 1.7026rem;
+  height: 100%;
+  background-color: #ff6433;
+  flex-shrink: 0;
+}
+.home-7K8 .faq-9RU .faq-5-jSr .orange-6Rp .plus-qeJ {
+  width: 1.7026rem;
+  height: 1.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-7K8 .get-in-touch-section-m2A {
+  margin: 0rem 36.6rem 17.8rem 32.2rem;
+  width: calc(100% - 68.8rem);
+  height: 62.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk {
+  margin-right: 13.9rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk .get-in-touch-with-our-experts-Qav {
+  margin: 0rem 0rem 4.8rem 0.2rem;
+  max-width: 50.6rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.3125;
+  letter-spacing: -0.192rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk .input-grey-h4E {
+  margin-bottom: 0.4rem;
+  box-sizing: border-box;
+  padding: 2.3rem 4rem 2.1rem 4rem;
+  width: 62.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f2;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk .input-grey-8vE {
+  margin: 0rem 0rem 0.4rem 0.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 4rem 2.1rem 4rem;
+  width: 62.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f2;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk .input-grey-A6E {
+  margin: 0rem 0rem 0.4rem 0.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 4rem 2.1rem 4rem;
+  width: 62.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f2;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk .input-grey-pga {
+  margin: 0rem 0rem 4.8rem 0.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 4rem 2.1rem 4rem;
+  width: 62.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f2;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-left-5Hk .button-tRY {
+  width: 20.6rem;
+  height: 6.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6433;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx {
+  margin: 21.6rem 0rem 11.4rem 0rem;
+  width: 46.7rem;
+  height: calc(100% - 33rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .address-GBC {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .address-GBC .address-oB8 {
+  margin-bottom: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .address-GBC .nh-234-public-square-san-francisco-65368-7hc {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y {
+  box-sizing: border-box;
+  padding-top: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y .details-a5Q {
+  margin-bottom: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y .details-a5Q .contact-details-7b8 {
+  margin-bottom: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y .details-a5Q .finsweetgmailcom-eb4 {
+  max-width: 23.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y .opening-xre {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y .opening-xre .opening-hours-XPx {
+  margin-bottom: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .get-in-touch-section-m2A .get-in-touch-right-Adx .auto-group-kchg-E1Y .opening-xre .monday-to-friday-9-00-am-to-10-00-am-ToQ {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #1d1b1b;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .auto-group-odva-9RL {
+  width: 100%;
+  height: 79.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-7K8 .auto-group-odva-9RL .image-fea {
+  width: 192rem;
+  height: 44.8rem;
+  position: absolute;
+  left: 0;
+  top: 34.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-7K8 .auto-group-odva-9RL .map-image-bo8 {
+  width: 128rem;
+  height: 51.2rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-7K8 .footer-jPY {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske {
+  box-sizing: border-box;
+  padding: 12.8rem 47.7rem 12.9rem 32rem;
+  width: 100%;
+  height: 54.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(29, 27, 27, 0.9800000191);
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG {
+  margin: 0rem 22.2rem 7rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG .get-in-touch-with-us-for-your-service-jH4 {
+  margin-bottom: 6.3rem;
+  max-width: 43.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.3999999364;
+  letter-spacing: -0.144rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG .social-dNS {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG .social-dNS .facebook-negative-nFL {
+  margin: 0rem 2.367rem 0.015rem 0rem;
+  width: 2.4rem;
+  height: 2.3854rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG .social-dNS .twitter-negative-sGn {
+  margin: 0rem 2.367rem 0rem 0rem;
+  width: 2.4rem;
+  height: 1.9501rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG .social-dNS .instagram-negative-9zz {
+  margin: 0rem 2.368rem 0rem 0rem;
+  width: 2.3986rem;
+  height: 2.3995rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-left-zqG .social-dNS .linkedin-negative-GJv {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa {
+  width: 46.7rem;
+  height: 100%;
+  row-gap: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .help-Xke {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .help-Xke .help-line-noumber-VhU {
+  margin-bottom: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .help-Xke .item-1800-265-24-52-2SW {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .address-jri {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .address-jri .address-hHk {
+  margin-bottom: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .address-jri .nh-234-public-square-san-francisco-65368-258 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .open-time-tt2 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .open-time-tt2 .open-r4A {
+  margin-bottom: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-top-ske .footer-right-CCa .open-time-tt2 .time-PJz {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.072rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N {
+  box-sizing: border-box;
+  padding: 6.4rem 32rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #1d1b1b;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .logo-3PY {
+  margin: 0rem 28.8rem 0.2rem 0rem;
+  width: 12.1rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .menu-AUA {
+  margin: 0.1rem 20.6rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .menu-AUA .home-hDC {
+  margin-right: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .menu-AUA .about-us-q4W {
+  margin-right: 3.9rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .menu-AUA .services-AsU {
+  margin-right: 4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .menu-AUA .blog-sG6 {
+  margin-right: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .menu-AUA .contact-us-C3U {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-7K8 .footer-jPY .footer-bottom-i6N .copyright-finsweet-2021-8C2 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  color: #929090;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
